@@ -1,5 +1,7 @@
 {
-  "name": "SvelteComponent",
+  "name": "@turbo-lang/CardNote",
+  "version": "1.0.0",
+  "description": "A note card",
   "svelte": "src/index.js",
   "module": "dist/index.mjs",
   "main": "dist/index.js",
